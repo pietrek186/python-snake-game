@@ -1,5 +1,7 @@
 # Snake Game (Python)
 
+![Snake Game screenshot](assets/snake_game.png)
+
 Classic Snake game built with Python and the `turtle` module.
 
 ## Features
